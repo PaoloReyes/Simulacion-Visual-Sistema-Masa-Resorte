@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/USER/Desktop/simulacion/media/videos/simulacion_masa_resorte/480p15/partial_movie_files/Sim/921711572_1551634818_1052027859.mp4'
